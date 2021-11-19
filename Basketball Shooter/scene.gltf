@@ -1,0 +1,377 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 956,
+      "max": [
+        1.364633321762085,
+        -3.6558001041412354,
+        0.87809997797012329
+      ],
+      "min": [
+        -1.3873000144958496,
+        -9.652400016784668,
+        -0.95420002937316895
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11472,
+      "componentType": 5126,
+      "count": 956,
+      "max": [
+        0.99998676776885986,
+        0.9965168833732605,
+        0.99902552366256714
+      ],
+      "min": [
+        -0.99927031993865967,
+        -0.99408704042434692,
+        -0.99968427419662476
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1815,
+      "max": [
+        955
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 22944,
+      "componentType": 5126,
+      "count": 2203,
+      "max": [
+        1.6533000469207764,
+        -1.4840999841690063,
+        0.8475000262260437
+      ],
+      "min": [
+        -1.6657999753952026,
+        -11.911700248718262,
+        -1.476099967956543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 49380,
+      "componentType": 5126,
+      "count": 2203,
+      "max": [
+        0.99922311305999756,
+        0.99420511722564697,
+        0.99905967712402344
+      ],
+      "min": [
+        -0.99931955337524414,
+        -0.99824154376983643,
+        -0.99966686964035034
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7260,
+      "componentType": 5125,
+      "count": 2892,
+      "max": [
+        2202
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 75816,
+      "componentType": 5126,
+      "count": 605,
+      "max": [
+        1.6707999706268311,
+        -1.0046000480651855,
+        0.89869999885559082
+      ],
+      "min": [
+        -1.676550030708313,
+        -1.8387000560760498,
+        -0.75150001049041748
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 83076,
+      "componentType": 5126,
+      "count": 605,
+      "max": [
+        0.99944281578063965,
+        0.99526107311248779,
+        0.99446737766265869
+      ],
+      "min": [
+        -0.99729979038238525,
+        -0.99893307685852051,
+        -0.98050171136856079
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 18828,
+      "componentType": 5125,
+      "count": 798,
+      "max": [
+        604
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "thomzer (https://sketchfab.com/thomzer)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/81abd084fda94e5d8267bbc9bf19f5e4",
+      "title": "Basketball Shooter"
+    },
+    "generator": "Sketchfab-4.10.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 22020,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 90336,
+      "byteOffset": 22020,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 112356,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "02_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.819608,
+          0.66274500000000003,
+          0.027451,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "21511_Basketball_Player_Shooting_v1_NEW__21511_Basketball_Player_Shooting_v121511_Basketball_Player_Shooting",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.74509800000000004,
+          0.61960800000000005,
+          0.41960799999999998,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "03_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.21568599999999999,
+          0.19215699999999999,
+          0.64705900000000005,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "21511_Basketball_Player_Shooting_02 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "21511_Basketball_Player_Shooting_21511_Basketball_Player_Shooting_v1_NEW__21511_Basketball_Player_Shooting_v121511_Basketball_Player_Shooting_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "21511_Basketball_Player_Shooting_03 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "58cfbbb3e7b3418181ed4c75c733f8a8.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -0.99999999999999911,
+        4.3711387965113384e-08,
+        0,
+        0,
+        -4.3711387965113384e-08,
+        -0.99999999999999911,
+        0,
+        -0.11548519134521484,
+        0,
+        1.159912109375,
+        1
+      ],
+      "name": "21511_Basketball_Player_Shooting"
+    },
+    {
+      "mesh": 0,
+      "name": "21511_Basketball_Player_Shooting_02 - Default_0"
+    },
+    {
+      "mesh": 1,
+      "name": "21511_Basketball_Player_Shooting_21511_Basketball_Player_Shooting_v1_NEW__21511_Basketball_Player_Shooting_v121511_Basketball_Player_Shooting_0"
+    },
+    {
+      "mesh": 2,
+      "name": "21511_Basketball_Player_Shooting_03 - Default_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
